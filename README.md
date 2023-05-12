@@ -1,4 +1,4 @@
-[<img src="https://github.com/AnnexOp/AnnexOp/blob/master/resources/hr.gif"/>](https://github.com/AnnexOp)
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 <h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
 <p align="center">
