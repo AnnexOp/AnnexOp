@@ -35,7 +35,7 @@ class Annexop():
 
 <h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" width="70px" style="border-radius: 50%"> 匚ㄖ几ㄒ卂匚ㄒ 爪乇 卄乇尺乇 </h1>
 
-[<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/Anexop/telegram_icon.png" width="60px">](https://t.me/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/maybe_its_rahul_)
+[<img src="https://raw.githubusercontent.com/Annexop/Annexop/telegram_icon.png" width="60px">](https://t.me/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/maybe_its_rahul_)
 
 
 
