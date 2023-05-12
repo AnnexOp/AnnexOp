@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-<h1> <img src="https://te.legra.ph/file/028dc9df4e449dcd4c874.jpg" height="90px" width="80px"> 卄乇ㄥㄥㄖ 卩乇ㄖ卩ㄥ乇 丨 卂爪  卂几几乇乂 </h1>
+<h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" height="90px" width="80px"> 卄乇ㄥㄥㄖ 卩乇ㄖ卩ㄥ乇 丨 卂爪  卂几几乇乂 </h1>
 
     
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
@@ -19,14 +19,14 @@
 
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-<h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" width="55px"> 卂乃ㄖㄩㄒ 爪乇 </h1>
 
 ```python3
-class Anonymous():
+class Annexop():
     def __init__(self):
-        self.name = ['Anonymous]
+        self.name = ['Annex]
         self.country = ['India']
-        self.language = ['हिंदी', 'English']
+        self.language = ['हिंदी', 'English', 'telugu']
     def programming_languages(self):
         return [
             'Python', 'SQL'
@@ -46,7 +46,8 @@ class Anonymous():
         ]
  ```
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 <h1> <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
