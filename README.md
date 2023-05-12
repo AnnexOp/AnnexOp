@@ -32,10 +32,3 @@ class Annexop():
 
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-
-<h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" width="70px" style="border-radius: 50%"> 匚ㄖ几ㄒ卂匚ㄒ 爪乇 卄乇尺乇 </h1>
-
-[<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/resources/telegram_icon.png" width="60px">](https://t.me/Annexop) [<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/resources/github_icon.png" width="60px">](https://github.com/Annexop) [<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@AnnexTech) [<img src="https://github.com/Annexop/Annexop/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/_Chinnu_XD)
-
- <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
-
