@@ -20,23 +20,6 @@ class Annexop():
         self.name = ['Annex]
         self.country = ['India']
         self.language = ['हिंदी', 'English', 'telugu']
-    def programming_languages(self):
-        return [
-            'Python', 'SQL'
-        ]
-    def markup_languages(self):
-        return [
-            'HTML', 'CSS'
-        ]
-    def developer_tools(self):
-        return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
-        ]
-    def operating_system(self):
-        return [
-            'Windows', 'Android', 'Linux'
-        ]
  ```
 
 
