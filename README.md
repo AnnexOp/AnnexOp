@@ -3,6 +3,7 @@
 <h1> <img src="https://te.legra.ph/file/028dc9df4e449dcd4c874.jpg" height="90px" width="80px"> 卄乇ㄥㄥㄖ 卩乇ㄖ卩ㄥ乇 丨 卂爪  卂几几乇乂 </h1>
 <p align="center">
     <b>ᐯ丨丂丨ㄒㄖ尺丂 匚ㄖㄩ几ㄒ ㄖ千 爪ㄚ 卩尺ㄖ千丨ㄥ乇</b><br>
+    
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnnexOp/count.svg" />
 </p>
 
