@@ -13,10 +13,6 @@
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 
-<p align="center">
-<a href="https://telegram.me/AboutAnnex"> <img src="https://te.legra.ph/file/dfe27aaf50fe6c8041747.jpg">
-</p>
-
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 <h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" width="55px"> 卂乃ㄖㄩㄒ 爪乇 </h1>
