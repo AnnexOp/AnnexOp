@@ -25,7 +25,7 @@ class Annexop():
   
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-
+<p align="Left">
      <b>✪ Ꮆ丨ㄒ卄ㄩ乃 卂几ㄚㄥㄚㄒ丨匚丂 ㄖ千 卂几几乇乂 ✪</b><br>
 
  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnexOp&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnnexOp)
