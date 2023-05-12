@@ -29,7 +29,7 @@ class Annexop():
      <b>✪ Ꮆ丨ㄒ卄ㄩ乃 卂几ㄚㄥㄚㄒ丨匚丂 ㄖ千 卂几几乇乂 ✪</b><br>
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AnonymousX1025)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnonymousX1025)
+[<img src="https://github-readme-stats.vercel.app/api?username=AnnexOp&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AnnexOp)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnexOp&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnnexOp)
 
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
