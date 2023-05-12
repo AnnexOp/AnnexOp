@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=320&lines=𝗛𝗲𝗹𝗹𝗼+welcome+𝗜+am+𝗮𝗻𝗻𝗲𝘅+💖">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=310&lines=𝗛𝗲𝗹𝗹𝗼+welcome+𝗜+am+𝗮𝗻𝗻𝗲𝘅+💖">
 </p> 
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Annexop&theme=gotham)
