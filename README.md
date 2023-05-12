@@ -2,6 +2,9 @@
 
 <h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" height="90px" width="80px">𝗛𝗲𝗹𝗹𝗼 𝗜 𝗮𝗺 𝗮𝗻𝗻𝗲𝘅 💖</h1>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Annexop&theme=gotham)
+
+
     
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 <p align="center">
