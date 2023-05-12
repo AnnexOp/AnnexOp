@@ -28,14 +28,14 @@ class Annexop():
 <p align="Left">
      <b>✪ Ꮆ丨ㄒ卄ㄩ乃 卂几ㄚㄥㄚㄒ丨匚丂 ㄖ千 卂几几乇乂 ✪</b><br>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AnnexOp&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Annexop)[<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnexOp&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnnexOp)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnexOp&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnnexOp)
 
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 
 <h1> <img src="https://te.legra.ph/file/85b351854a00bc9c785c6.jpg" width="70px" style="border-radius: 50%"> 匚ㄖ几ㄒ卂匚ㄒ 爪乇 卄乇尺乇 </h1>
 
-[<img src="https://raw.githubusercontent.com/Annexop/Annexop/telegram_icon.png" width="60px">](https://t.me/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/maybe_its_rahul_)
+[<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/resources/telegram_icon.png" width="60px">](https://t.me/Annexop) [<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/resources/github_icon.png" width="60px">](https://github.com/Annexop) [<img src="https://raw.githubusercontent.com/Annexop/Annexop/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@AnnexTech) [<img src="https://github.com/Annexop/Annexop/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/_Chinnu_XD)
 
-
+ <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
