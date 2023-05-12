@@ -32,15 +32,6 @@ class Annexop():
     
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
  
- <p align="Left">
-     <b>▶丂ㄖ爪乇 卩尺ㄖﾌ乇匚ㄒ丂 爪ᗪ乇 乃ㄚ 卂几几乇乂◀</b><br>
+ [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnexOp&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/AnnexOp)
  
- <a href="https://github.com/AnnexOp/MentionBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnnexOp&repo=MeNtionBot&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/AnnexOp/PyroXhackBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnnexOP&repo=PyroXhackBot&cache_seconds=86400&theme=gotham">
-</a>
-    
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
