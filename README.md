@@ -8,8 +8,9 @@
 
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
+
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<a href="https://telegram.me/AboutAnnex"> <img src="https://te.legra.ph/file/dfe27aaf50fe6c8041747.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
