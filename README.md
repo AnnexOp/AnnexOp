@@ -33,6 +33,6 @@ class Annexop():
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
  <p align="Left">
      <b>✪爪ㄖ丂ㄒ ㄩ丂乇ᗪ ㄥ卂几Ꮆㄩ乇丂 乃ㄚ 卂几几乇乂✪</b><br>
- [AnnexOp](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnexOp&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/AnnexOp)
+ [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnexOp&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/AnnexOp)
  
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
